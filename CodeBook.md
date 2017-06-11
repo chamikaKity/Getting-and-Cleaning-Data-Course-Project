@@ -87,3 +87,4 @@ fBodyGyroJerkMag | frequencyBodyGyroscopeJerkMagnitude-XYZ
 Tidy Data
 ---------
 The tidydata.txt file contains data set with the average of each variable for each activity and each subject.
+(This file will be created when run_analysis.R file is executed.)
