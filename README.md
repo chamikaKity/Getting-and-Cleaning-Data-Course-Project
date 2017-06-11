@@ -10,11 +10,12 @@ The dataset includes the following files:
 - 'CodeBook.md': A file describes the variables, the data, and any transformations/work that I performed to clean up the data.
 
 
-run_analysis.R
-==============
-Download the data for the project using the link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-Unzip the file.
-Moved the files into a folder 'UCI HAR Dataset' in the working directory.
+How to run:
+===========
+1. Download the data for the project using the link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+2. Unzip the file.
+3. Moved the files into a folder 'UCI HAR Dataset' in the working directory.
+4. In R studio, run the script 'run_analysis.R'.
 
 Get the list of files into the variable 'files'
 
