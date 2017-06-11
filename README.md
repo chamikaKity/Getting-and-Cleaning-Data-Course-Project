@@ -17,6 +17,9 @@ How to run:
 3. Moved the files into a folder 'UCI HAR Dataset' in the working directory.
 4. In R studio, run the script 'run_analysis.R'.
 
+Steps performed by run_analysis.R
+=================================
+
 Step 1 
 ------
 Merged the training and the test sets to create one data set.
