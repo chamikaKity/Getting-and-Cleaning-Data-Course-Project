@@ -41,5 +41,4 @@ Appropriately labeled the data set 'Q2subsetData' with descriptive variable name
 Step 5
 ------
 From the data set in step 4, created an independent tidy data set 'Q5Data' with the average of each variable for each activity and each subject.
-Saved that data frame in the file 'tidydata.txt'.# Getting-and-Cleaning-Data-Course-Project
-# Getting-and-Cleaning-Data-Course-Project
+Saved that data frame in the file 'tidydata.txt'.
