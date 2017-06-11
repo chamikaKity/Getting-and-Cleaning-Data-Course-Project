@@ -5,8 +5,6 @@ The dataset includes the following files:
 
 - 'run_analysis.R': An R script that performs the analysis.
  
-- 'tidydata.txt': Tidy data set
-
 - 'CodeBook.md': A file describes the variables, the data, and any transformations/work that I performed to clean up the data.
 
 
@@ -16,6 +14,8 @@ How to run:
 2. Unzip the file.
 3. Moved the files into a folder 'UCI HAR Dataset' in the working directory.
 4. In R studio, run the script 'run_analysis.R'.
+
+This will create a tidy dataset 'tidydata.txt' in the working directory.
 
 Steps performed by run_analysis.R
 =================================
