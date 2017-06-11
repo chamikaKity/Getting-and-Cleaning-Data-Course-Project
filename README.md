@@ -12,6 +12,9 @@ The dataset includes the following files:
 
 run_analysis.R
 ==============
+Download the data for the project using the link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Unzip the file.
+Moved the files into a folder 'UCI HAR Dataset' in the working directory.
 
 Get the list of files into the variable 'files'
 
